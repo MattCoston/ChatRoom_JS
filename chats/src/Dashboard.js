@@ -16,10 +16,10 @@ export default function Dashboard() {
   return (
     <div className={classes.root}>
       <Paper>
-      <Typography variant="h5" component="h3">
+      <Typography variant="h3" component="h3">
         Chat App
       </Typography>
-      <Typography component="p">
+      <Typography component="h">
         Topic placeholder
       </Typography>
       </Paper>
